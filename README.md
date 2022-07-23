@@ -1,6 +1,6 @@
 # Hey there, 👋. I'm Sarthak2143
 
-I am a 16 year old senior year high school student at India. I am interested in Mathematics, Cyhersecurity, Artificial Intelligence and Programming. I mostly code in `Python`, `Golang`, `Lua` and `JavaScript`. I am an aspiring Machine Learning Engineer.
+I am a 16 year old senior year high school student at India. I am interested in Mathematics, Cybersecurity, Artificial Intelligence and Programming. I mostly code in `Python`, `Golang`, `Lua` and `JavaScript`. I am an aspiring Machine Learning Engineer.
 
 ## Connect with me
 
