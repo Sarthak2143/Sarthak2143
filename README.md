@@ -13,4 +13,3 @@ some cool projects:
 [spotify-dl](https://github.com/Sarthak2143/spotify-dl) / [portfolio](https://github.com/Sarthak2143/portfolio) / [twt](https://github.com/Sarthak2143/twt)
 
 ![sarthak2143](https://count.getloli.com/@:Sarthak2143)
-![count loli](https://count.getloli.com/get/@:Sarthak2143?theme=gelbooru&scale=0.7)
