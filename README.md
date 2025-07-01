@@ -1,6 +1,6 @@
 ## hello, i am sarthak.
 
-![manga](manga.png)
+![frieren](frieren.jpg)
 
 19 years old wannabe hacker turning tears to code.
 
