@@ -12,6 +12,6 @@ c/c++ / go / rust / python / js / ts
 
 some cool projects:
 
-[spotify-dl](https://github.com/Sarthak2143/spotify-dl) / [portfolio](https://github.com/Sarthak2143/sarthak2143.github.io) / [twt](https://github.com/Sarthak2143/twt)
+[sakura](https://github.com/Sarthak2143/sakura) / [spotify-dl](https://github.com/Sarthak2143/spotify-dl) / [portfolio](https://github.com/Sarthak2143/sarthak2143.github.io) / [twt](https://github.com/Sarthak2143/twt)
 
 ![sarthak2143](https://count.getloli.com/@Sarthak2143?name=Sarthak2143&theme=booru-qualityhentais&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
