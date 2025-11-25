@@ -4,7 +4,7 @@
 
 19 years old wannabe hacker turning tears to code.
 
-- contact: [x.com](https://x.com/sarthak2143) / [discord](https://discord.com/users/1226399791362080820) / [email](mailto:sarthaktomar2143@gmail.com)
+contact: [x.com](https://x.com/sarthak2143) / [discord](https://discord.com/users/1226399791362080820) / [email](mailto:sarthaktomar2143@gmail.com)
 
 i write this [blog](https://sarthak2143.bearblog.dev) sometimes.
 
